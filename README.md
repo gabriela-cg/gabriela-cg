@@ -5,7 +5,7 @@
 - 👯 Estou procurando atuar em UX/UI e front-end
 - 📫 Como chegar até mim: gabriela.carvalhog@outlook.com
 - 😄 Pronomes: ela/dela               
-- ⚡ Curiosidades: Sou formada em Publicidade e Propaganda, pela faculdade Fecap 
+- ⚡ Curiosidades: Sou formada em Publicidade e Propaganda, pela faculdade Fecap. Quando era criança adorava jogar futebol e queria ser a Marta 
 
 <div align="center">
   <a href="https://github.com/gabriela-cg">
