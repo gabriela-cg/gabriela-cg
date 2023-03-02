@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Gabriela Gonçalves, estudante de Sistemas para Internet
 
-- 🔭 Atualmente trabalho como freelancer em designer gráfico
+- 🔭 Atualmente trabalho como UI/UX designer na Accesstage e nas horas vagas como freelancer em designer gráfico
 - 📚 Estou estudando Sistemas para Internet 
 - 👯 Estou procurando atuar em UX/UI e front-end
 - 📫 Como chegar até mim: gabriela.carvalhog@outlook.com
